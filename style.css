@@ -1,0 +1,14 @@
+@media screen and (max-width: 400px) {
+}
+body { margin-left: 50px;
+}
+html {background: url(https://res.cloudinary.com/dabsclement/image/upload/v1566909979/janelle-soto-vnhxDBRf3sA-unsplash_atfgfk.jpg)
+     no-repeat center center fixed;-webkit-background-size: cover;
+     -ms-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     font-family: Arial, Helvetica, sans-serif; }
+h3 { color: blue;}
+p { color: aquamarine;}
+li { color: aquamarine;}
+marquee { color: greenyellow;}
